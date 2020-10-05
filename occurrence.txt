@@ -1,0 +1,7 @@
+mot: pigeon occurrence: 1
+mot: Salut occurrence: 3
+mot: oiseau occurrence: 1
+mot: un occurrence: 3
+mot: suis occurrence: 3
+mot: je occurrence: 3
+mot: moineau occurrence: 1
